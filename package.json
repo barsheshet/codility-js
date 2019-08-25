@@ -1,0 +1,27 @@
+{
+  "name": "codility-js",
+  "version": "0.0.1",
+  "description": "Codility solutions using JavaScript (ES6)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barsheshet/codility-js.git"
+  },
+  "keywords": [
+    "Codility",
+    "JavaScript",
+    "Node.js",
+    "ES6",
+    "Jest",
+    "Solutions"
+  ],
+  "author": "https://github.com/barsheshet/codility-js/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barsheshet/codility-js/issues"
+  },
+  "homepage": "https://github.com/barsheshet/codility-js#readme"
+}
