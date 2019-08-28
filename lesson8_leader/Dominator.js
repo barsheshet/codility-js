@@ -19,6 +19,7 @@ function solution(A) {
   }
 
   let numOfCand = 0;
+
   for (let item of A) {
     if (item === A[candidate]) {
       numOfCand++;
